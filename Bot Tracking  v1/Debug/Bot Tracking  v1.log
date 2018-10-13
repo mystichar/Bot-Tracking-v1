@@ -1,0 +1,9 @@
+﻿  Bot Tracking  v1 - run tester.cpp
+c:\users\harpe\documents\bot tracking v1\bot tracking  v1\bot tracking  v1\bot tracking  v1 - run tester.cpp(15): warning C4101: 'acc_fb_fin': unreferenced local variable
+c:\users\harpe\documents\bot tracking v1\bot tracking  v1\bot tracking  v1\bot tracking  v1 - run tester.cpp(19): warning C4101: 'velocity_y_int': unreferenced local variable
+c:\users\harpe\documents\bot tracking v1\bot tracking  v1\bot tracking  v1\bot tracking  v1 - run tester.cpp(18): warning C4101: 'velocity_x_int': unreferenced local variable
+c:\users\harpe\documents\bot tracking v1\bot tracking  v1\bot tracking  v1\bot tracking  v1 - run tester.cpp(14): warning C4101: 'acc_lr_fin': unreferenced local variable
+  iteration.cpp
+  Generating Code...
+c:\users\harpe\documents\bot tracking v1\bot tracking  v1\bot tracking  v1\iteration.cpp(55): warning C4172: returning address of local variable or temporary: intend
+  Bot Tracking  v1.vcxproj -> C:\Users\harpe\Documents\Bot Tracking v1\Bot Tracking  v1\Debug\Bot Tracking  v1.exe
